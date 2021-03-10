@@ -1,0 +1,1742 @@
+2021-201-03 21:00:12 | 152 samples examined | Samples examined from 2017-10-1 00:00:00 to 2020-12-23 00:00:00 | 20 forecasts made |  Linear Regression: -0.0003179057210317651 * (x) + 9.746328675488358e-11 
+
+2021-201-04 00:11:00 | 152 samples examined | Samples examined from 2017-10-1 00:00:00 to 2020-12-23 00:00:00 | 20 forecasts made |  Linear Regression: -0.0003179057210317651 * (x) + 9.746328675488358e-11 
+
+2021-201-04 00:12:27 | 152 samples examined | Samples examined from 2017-10-1 00:00:00 to 2020-12-23 00:00:00 | 20 forecasts made |  Linear Regression: -0.0003179057210317651 * (x) + 9.746328675488358e-11 
+
+2021-03-05 11:53:46 | 3 samples examined | Samples examined from 2017-10-1 to 2020-12-23 | 10 forecasts made |  Linear Regression: 6.807041032982965e-7 * (x) + -1.9630978413943964e-10 
+
+2021-03-05 11:53:46 | 3 samples examined | Samples examined from 2017-10-1 to 2020-12-23 | 10 forecasts made |  Linear Regression: -3.038271476681759e-8 * (x) + -2.910974116531091e-10 
+
+2021-03-05 11:53:46 | 3 samples examined | Samples examined from 2017-10-1 to 2020-12-23 | 10 forecasts made |  Linear Regression: -0.000014996312563532477 * (x) + -1.6196906032105517e-10 
+
+2021-03-05 11:55:24 | 3 samples examined | Samples examined from 2017-10-1 to 2020-12-23 | 10 forecasts made |  Linear Regression: 6.807041032982965e-7 * (x) + -1.9630978413943964e-10 
+
+2021-03-05 11:55:24 | 3 samples examined | Samples examined from 2017-10-1 to 2020-12-23 | 10 forecasts made |  Linear Regression: -3.038271476681759e-8 * (x) + -2.910974116531091e-10 
+
+2021-03-05 11:55:25 | 3 samples examined | Samples examined from 2017-10-1 to 2020-12-23 | 10 forecasts made |  Linear Regression: -0.000014996312563532477 * (x) + -1.6196906032105517e-10 
+
+2021-03-05 12:03:52 | 3 samples examined | Samples examined from undefined to undefined | 10 forecasts made |  Linear Regression: 6.807041032982965e-7 * (x) + -1.9630978413943964e-10 
+
+2021-03-05 12:03:52 | 3 samples examined | Samples examined from undefined to undefined | 10 forecasts made |  Linear Regression: -3.038271476681759e-8 * (x) + -2.910974116531091e-10 
+
+2021-03-05 12:03:52 | 3 samples examined | Samples examined from undefined to undefined | 10 forecasts made |  Linear Regression: -0.000014996312563532477 * (x) + -1.6196906032105517e-10 
+
+2021-03-05 12:04:46 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 6.807041032982965e-7 * (x) + -1.9630978413943964e-10 
+
+2021-03-05 12:04:46 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -3.038271476681759e-8 * (x) + -2.910974116531091e-10 
+
+2021-03-05 12:04:47 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.000014996312563532477 * (x) + -1.6196906032105517e-10 
+
+2021-03-05 12:26:07 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 6.807041032982965e-7 * (x) + -1.9630978413943964e-10 
+
+2021-03-05 12:26:07 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -3.038271476681759e-8 * (x) + -2.910974116531091e-10 
+
+2021-03-05 12:26:07 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.000014996312563532477 * (x) + -1.6196906032105517e-10 
+
+2021-03-05 12:26:43 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 22 forecasts made |  Linear Regression: 0.00000135640675818929 * (x) + -4.0224091246594225e-11 
+
+2021-03-05 12:26:44 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.0005378514275258439 * (x) + 3.776094556280885e-9 
+
+2021-03-05 12:26:44 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.000007894546813001931 * (x) + -3.1235628550665995e-11 
+
+2021-03-05 12:26:44 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: 0.00014797271324730715 * (x) + -4.17371589001511e-8 
+
+2021-03-05 12:27:30 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 12:27:30 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 
+
+2021-03-05 12:27:30 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-05 12:27:30 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 12:27:38 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 12:27:38 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 
+
+2021-03-05 12:27:38 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-05 12:27:39 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 12:28:03 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 12:28:04 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 
+
+2021-03-05 12:28:04 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-05 12:28:04 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 12:34:55 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 12:34:55 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 
+
+2021-03-05 12:34:55 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-05 12:34:56 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 12:35:10 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 12:35:10 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 
+
+2021-03-05 12:35:10 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-05 12:35:10 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 12:41:17 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 12:41:17 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 
+
+2021-03-05 12:41:18 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-05 12:41:18 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 12:41:43 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 12:41:43 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 
+
+2021-03-05 12:41:43 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-05 12:41:43 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 13:43:10 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-05 13:43:10 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 
+
+2021-03-05 13:43:10 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-05 13:43:10 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 22 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 10:47:39 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 10:47:39 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 10:47:39 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:25:58 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 11:25:58 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:25:58 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:26:39 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 11:26:39 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:26:39 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:26:55 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 11:26:55 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:26:55 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:29:11 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 11:29:11 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:29:11 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:29:41 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 11:29:41 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:29:41 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:29:54 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 11:29:54 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:29:54 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:31:12 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 11:31:12 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:31:12 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:31:58 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 11:31:58 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:31:58 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:32:29 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 11:32:29 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:32:29 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:39:39 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 11:39:39 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:39:39 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:42:45 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 11:42:45 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:42:45 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:45:25 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 11:45:25 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:45:25 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:45:42 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 11:45:42 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 11:45:43 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:00:15 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 13:00:15 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:00:15 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:01:37 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 13:01:37 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:01:37 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:05:37 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 13:05:37 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:05:37 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:06:28 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 13:06:28 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:06:28 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:06:44 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 13:06:44 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:06:44 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:06:52 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 13:06:52 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:06:52 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:07:01 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 13:07:01 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:07:01 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:07:21 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 
+
+2021-03-06 13:07:21 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:07:21 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 
+
+2021-03-06 13:10:15 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:10:15 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:10:15 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:10:38 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:10:38 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:10:38 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:11:15 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:11:15 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:11:15 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:11:36 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:11:36 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:11:36 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:14:14 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:14:14 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:14:14 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:14:29 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:14:29 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:14:29 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 5 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:14:51 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:14:51 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:14:51 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:15:34 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:15:34 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:15:34 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:16:36 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:16:37 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:16:37 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:17:08 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:17:08 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:17:08 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score NaN 
+
+2021-03-06 13:17:24 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:17:24 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:17:24 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score NaN 
+
+2021-03-06 13:21:50 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:21:51 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:21:51 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score NaN 
+
+2021-03-06 13:22:20 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:22:20 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score NaN 
+
+2021-03-06 13:22:20 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score NaN 
+
+2021-03-06 13:23:49 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:23:49 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:23:49 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:32:39 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:32:39 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:32:39 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:32:47 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:32:47 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:32:47 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:36:29 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:36:29 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:36:29 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:36:44 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:36:44 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:36:44 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:36:54 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:36:54 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:36:54 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:37:47 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:37:47 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:37:47 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:43:41 | 7 samples examined | Samples examined from 2020-12-16 to 2020-12-18 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -9861.07 
+
+2021-03-06 13:43:41 | 7 samples examined | Samples examined from 2020-12-17 to 2020-12-19 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:43:41 | 7 samples examined | Samples examined from 2020-12-17 to 2020-12-19 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:44:28 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 13:44:28 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:44:28 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:44:28 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 13:50:17 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 13:50:17 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:50:17 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:50:17 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 13:51:35 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 13:51:35 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:51:35 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:51:35 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 13:53:36 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 13:53:36 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:53:36 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:53:36 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 13:53:45 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 13:53:45 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:53:45 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:53:45 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 13:54:13 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 13:54:13 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:54:13 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:54:13 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 13:55:43 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 13:55:43 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:55:43 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:55:43 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 13:59:53 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 13:59:53 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 13:59:53 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 13:59:53 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 14:03:34 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 14:03:34 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 14:03:34 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 14:03:34 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 14:45:06 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 14:45:06 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 14:45:06 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 14:45:06 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 14:59:56 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 14:59:56 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 14:59:56 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 14:59:56 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 15:02:39 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 15:02:39 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 15:02:39 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 15:02:39 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 15:47:43 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 15:47:43 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 15:47:43 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 15:47:43 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 15:54:56 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 15:54:56 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 15:54:56 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 15:54:56 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 19:10:20 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 19:10:20 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 19:10:20 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 19:10:20 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 19:48:36 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 19:48:36 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 19:48:36 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 19:48:37 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 21:32:25 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 21:32:25 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 21:32:25 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 21:32:25 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 21:50:14 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 21:50:14 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 21:50:14 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 21:50:14 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 21:52:35 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 21:52:35 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 21:52:35 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 21:52:35 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 21:53:15 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 21:53:15 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 21:53:15 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 21:53:15 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 21:53:54 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 21:53:54 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 21:53:54 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 21:53:54 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 21:55:35 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 21:55:35 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 21:55:35 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 21:55:35 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 21:55:44 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 21:55:44 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 21:55:44 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 21:55:44 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 22:00:08 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 22:00:08 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 22:00:08 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 22:00:08 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 22:00:20 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 22:00:20 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 22:00:20 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 22:00:20 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 22:00:28 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 22:00:28 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 22:00:28 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 22:00:28 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 22:00:43 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 22:00:43 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 22:00:43 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 22:00:44 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-06 22:05:57 | 124 samples examined | Samples examined from 2017-10-1 to 2017-10-12 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-06 22:05:57 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-06 22:05:57 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-06 22:05:57 | 124 samples examined | Samples examined from 2020-12-14 to 2020-12-17 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 10:47:36 | 2 samples examined | Samples examined from 2019-10-17 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 10:47:36 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 10:47:37 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 10:47:37 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 10:51:02 | 2 samples examined | Samples examined from 2019-10-17 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 10:51:02 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 10:51:03 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 10:51:03 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 10:51:12 | 2 samples examined | Samples examined from 2019-10-17 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 10:51:12 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 10:51:12 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 10:51:12 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 10:51:36 | 2 samples examined | Samples examined from 2019-10-17 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 10:51:36 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 10:51:36 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 10:51:36 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 10:51:46 | 2 samples examined | Samples examined from 2019-10-17 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 10:51:46 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 10:51:46 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 10:51:46 | 2 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 10:53:10 | 2 samples examined | Samples examined from 2019-10-17 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 10:53:10 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 10:53:10 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 10:53:10 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 11:04:04 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 11:04:05 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 11:04:05 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 11:04:05 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 11:04:39 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 11:04:39 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 11:04:39 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 11:04:39 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 11:25:03 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 11:25:03 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 11:25:03 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 11:25:03 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 12:20:15 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 12:20:15 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 12:20:15 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 12:20:15 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 12:20:27 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 12:20:27 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 12:20:27 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 12:20:27 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 12:20:50 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 12:20:50 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 12:20:50 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 12:20:50 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 12:23:36 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 12:23:36 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 12:23:36 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 12:23:36 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 12:27:41 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 12:27:41 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 12:27:41 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 12:27:41 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 12:49:44 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 12:49:44 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 12:49:44 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 12:49:44 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 13:00:52 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 13:00:52 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 13:00:52 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 13:00:52 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 13:01:08 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 13:01:08 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 13:01:08 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 13:01:08 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 13:15:05 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 13:15:05 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 13:15:05 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 13:15:05 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 13:15:28 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 13:15:28 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 13:15:28 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 13:15:28 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 13:18:19 | 2 samples examined | Samples examined from 2019-10-17 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 13:18:19 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 13:18:19 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 13:18:19 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 13:18:44 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 13:18:44 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 13:18:44 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 13:18:44 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 13:18:47 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 13:18:47 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 13:18:47 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 13:18:47 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 13:23:13 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 13:23:13 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 13:23:13 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 13:23:13 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 13:23:45 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 13:23:45 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 13:23:45 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 13:23:45 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 21:57:19 | 5 samples examined | Samples examined from 2019-10-14 to 2019-10-18 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 21:57:19 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 21:57:19 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 30 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 21:57:19 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 30 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 21:57:49 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 300 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 21:57:49 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 300 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 21:57:49 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 300 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 21:59:40 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 300 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 21:59:40 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 300 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 21:59:40 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 300 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 22:00:22 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 22:00:22 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 22:00:22 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 22:00:40 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 22:00:40 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 22:00:40 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 22:00:56 | 5 samples examined | Samples examined from 2019-10-14 to 2019-10-18 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 22:00:56 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 22:00:56 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 22:00:56 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 22:01:15 | 5 samples examined | Samples examined from 2019-10-14 to 2019-10-18 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 22:01:15 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 20 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 22:01:15 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 20 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 22:01:15 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 20 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 22:01:35 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 200 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 22:01:35 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 200 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 22:01:35 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 200 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 22:01:54 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 200 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 22:01:54 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 200 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 22:01:54 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 200 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-07 22:02:17 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 200 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-07 22:02:17 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 200 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-07 22:02:17 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 200 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-07 22:02:17 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 200 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-08 00:03:49 | 124 samples examined | Samples examined from 2017-10-1 to 2019-10-18 | 200 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-08 00:03:49 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 200 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 00:03:49 | 10 samples examined | Samples examined from 2020-12-14 to 2020-12-23 | 200 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 00:03:49 | 9 samples examined | Samples examined from 2020-12-14 to 2020-12-22 | 200 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-08 11:19:39 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 11:19:39 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 11:19:39 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 11:19:46 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 11:19:46 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 11:19:46 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 11:20:52 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 11:20:52 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 11:20:52 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 11:20:59 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 11:20:59 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 11:20:59 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 12:48:45 | 10 samples examined | Samples examined from 2020-01-18 to 2020-01-27 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -116.07 
+
+2021-03-08 12:49:25 | 10 samples examined | Samples examined from 2020-01-18 to 2020-01-27 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -116.07 
+
+2021-03-08 12:50:07 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 12:50:07 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 12:50:07 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 12:58:14 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 12:58:14 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 12:58:14 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 12:58:56 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 12:58:56 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 12:58:56 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 13:02:25 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:02:25 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:02:25 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 13:03:03 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:03:03 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:03:03 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 13:03:29 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:03:29 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:03:29 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 13:04:08 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:04:08 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:04:08 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 13:32:10 | 10 samples examined | Samples examined from 2020-01-18 to 2020-01-27 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -116.07 
+
+2021-03-08 13:33:37 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:33:37 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:33:37 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 13:33:57 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:33:57 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:33:57 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 13:37:45 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:37:46 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:37:46 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 13:38:10 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:38:10 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:38:10 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 13:39:44 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:39:44 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:39:44 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 13:40:33 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:40:33 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:40:34 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 13:42:23 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:42:23 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:42:23 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 13:46:14 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:46:14 | 4 samples examined | Samples examined from 2020-12-20 to 2020-12-23 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:46:14 | 3 samples examined | Samples examined from 2020-12-20 to 2020-12-22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 13:46:32 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:46:32 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 13:46:32 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 13:47:07 | 10 samples examined | Samples examined from 2020-01-18 to 2020-01-27 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -116.07 
+
+2021-03-08 14:07:50 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:07:50 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:07:50 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 14:17:58 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:17:58 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:17:58 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 14:18:27 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:18:27 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:18:27 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 14:18:32 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:18:32 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:18:32 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 14:18:37 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:18:37 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:18:37 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 14:24:14 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:24:15 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:24:15 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 14:25:58 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:25:58 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:25:58 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 14:28:18 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:28:18 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:28:18 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 14:30:53 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: NaN * (x) + NaN | R2 score NaN 
+
+2021-03-08 14:30:53 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: NaN * (x) + NaN | R2 score NaN 
+
+2021-03-08 14:30:53 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: NaN * (x) + NaN | R2 score NaN 
+
+2021-03-08 14:31:24 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: NaN * (x) + NaN | R2 score NaN 
+
+2021-03-08 14:31:24 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: NaN * (x) + NaN | R2 score NaN 
+
+2021-03-08 14:31:24 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: NaN * (x) + NaN | R2 score NaN 
+
+2021-03-08 14:31:46 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:31:46 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:31:46 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 14:34:23 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:34:23 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 14:34:23 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 15:07:39 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:07:39 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:07:39 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 15:09:12 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:09:12 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:09:12 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 15:10:01 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:10:01 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:10:01 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 15:10:28 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:10:28 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:10:28 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 15:11:47 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:11:47 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:11:47 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 15:26:42 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:26:42 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:26:42 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 15:27:09 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:27:09 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:27:09 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 15:29:33 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:29:33 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:29:33 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 15:29:59 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:29:59 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:29:59 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 15:38:16 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-08 15:38:16 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-08 15:38:16 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-08 15:38:16 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 10:51:53 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 10:51:53 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 10:51:53 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 10:55:04 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 10:55:04 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 10:55:04 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:10:23 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:10:23 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:10:23 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:10:50 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:10:50 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:10:51 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:11:16 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:11:16 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:11:16 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:12:29 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:12:29 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:12:29 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:14:19 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:14:19 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:14:19 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:15:33 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:15:33 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:15:33 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:17:12 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:17:12 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:17:12 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:18:02 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:18:02 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:18:02 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:18:12 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:18:12 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:18:12 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:19:18 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:19:18 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:19:18 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:22:15 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:22:15 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:22:15 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:22:27 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:22:27 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:22:27 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:34:27 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:34:27 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:34:27 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:34:47 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:34:47 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:34:47 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:36:43 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:36:43 | 4 samples examined | Samples examined from 2020/12/20 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:36:43 | 3 samples examined | Samples examined from 2020/12/20 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:39:21 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 11:39:21 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:39:21 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:39:21 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 11:39:53 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 11:39:53 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:39:53 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:39:53 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 11:42:26 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 11:42:26 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:42:26 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:42:26 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 11:43:55 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 11:43:55 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:43:55 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:43:55 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 11:44:22 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 11:44:22 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:44:22 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:44:23 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 11:44:38 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 11:44:38 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 11:44:38 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 11:44:38 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 12:01:22 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 12:01:22 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:01:22 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:01:23 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 12:05:34 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 12:05:34 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:05:34 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:05:34 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 12:11:06 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 12:11:06 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:11:06 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:11:06 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 12:11:24 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 12:11:24 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:11:24 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:11:24 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 12:11:51 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 12:11:51 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:11:52 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:11:52 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 12:12:21 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 12:12:21 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:12:21 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:12:21 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 12:13:24 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 12:13:25 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:13:25 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:13:25 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 12:13:53 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 12:13:53 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:13:53 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:13:53 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 12:15:24 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 12:15:24 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:15:24 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:15:24 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 12:15:56 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-09 12:15:56 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:15:56 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:15:56 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-09 12:18:21 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: -0.44 * (x) + 0.01 | R2 score -0.27 
+
+2021-03-09 12:18:21 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 58.60 * (x) + -1.74 | R2 score -Infinity 
+
+2021-03-09 12:18:21 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: 0.79 * (x) + -0.02 | R2 score -Infinity 
+
+2021-03-09 12:18:21 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 25.65 * (x) + -0.65 | R2 score -13.22 
+
+2021-03-09 12:20:51 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: -0.44 * (x) + 0.01 | R2 score -0.27 
+
+2021-03-09 12:20:51 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 58.60 * (x) + -1.74 | R2 score -Infinity 
+
+2021-03-09 12:20:51 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: 0.79 * (x) + -0.02 | R2 score -Infinity 
+
+2021-03-09 12:20:51 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 25.65 * (x) + -0.65 | R2 score -13.22 
+
+2021-03-09 12:22:37 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: -0.44 * (x) + 0.01 | R2 score -0.27 
+
+2021-03-09 12:22:37 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 58.60 * (x) + -1.74 | R2 score -Infinity 
+
+2021-03-09 12:22:37 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: 0.79 * (x) + -0.02 | R2 score -Infinity 
+
+2021-03-09 12:22:38 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: 25.65 * (x) + -0.65 | R2 score -13.22 
+
+2021-03-09 12:25:47 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.20 
+
+2021-03-09 12:25:48 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:25:48 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:25:49 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -15.72 
+
+2021-03-09 12:38:34 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.20 
+
+2021-03-09 12:38:34 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:38:34 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:38:34 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -15.72 
+
+2021-03-09 12:51:40 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.20 
+
+2021-03-09 12:51:40 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:51:40 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:51:40 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -15.72 
+
+2021-03-09 12:52:14 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.20 
+
+2021-03-09 12:52:14 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:52:14 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:52:14 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -15.72 
+
+2021-03-09 12:53:52 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.20 
+
+2021-03-09 12:53:52 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-09 12:53:52 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | 10 forecasts made |  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-09 12:53:52 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | 10 forecasts made |  Linear Regression: -0.00 * (x) + 0.00 | R2 score -15.72 
+
+2021-03-10 13:04:14 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 730  | Vars: COUNTER,Day of the Month,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -0.42 
+
+2021-03-10 13:04:15 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 730  | Vars: COUNTER,Day of the Month,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 13:04:15 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 730  | Vars: COUNTER,Day of the Month,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 13:04:15 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 730  | Vars: COUNTER,Day of the Month,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4205.28 
+
+2021-03-10 13:10:40 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 730  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 13:10:40 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 730  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 13:10:40 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 730  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 13:10:41 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 730  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 13:10:50 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 730  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 13:10:50 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 730  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 13:10:50 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 730  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 13:10:50 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 730  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 13:12:21 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 13:12:21 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 13:12:21 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 13:12:21 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 13:23:21 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 13:23:21 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 13:23:21 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 13:23:22 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 13:59:44 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 13:59:44 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 13:59:44 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 13:59:44 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 14:01:37 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 14:01:37 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 14:01:37 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 14:01:37 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 14:02:04 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 14:02:04 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 14:02:04 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 14:02:04 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 14:02:15 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 14:02:15 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 14:02:15 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 14:02:15 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 14:05:23 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 14:05:23 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 14:05:23 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 14:05:23 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 14:07:13 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 14:07:13 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 14:07:13 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 14:07:13 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 14:21:36 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 14:21:36 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 14:21:36 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 14:21:36 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 14:24:03 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 14:24:03 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 14:24:03 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 14:24:03 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 14:25:30 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 14:25:30 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 14:25:30 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 14:25:30 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 14:28:56 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 14:28:56 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 14:28:56 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 14:28:56 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 15:44:14 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 15:44:14 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 15:44:14 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 15:44:14 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 19:32:44 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 19:32:44 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 19:32:44 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 19:32:44 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 19:35:47 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 19:35:47 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 19:35:47 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 19:35:47 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 19:46:07 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 19:46:07 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 19:46:07 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 19:46:07 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 19:59:21 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 19:59:21 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 19:59:21 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 19:59:21 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 20:30:35 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 20:30:35 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 20:30:35 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 20:30:35 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 20:32:18 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 20:32:18 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 20:32:19 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 20:32:19 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 20:33:20 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 20:33:20 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 20:33:20 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 20:33:20 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 20:34:06 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 20:34:06 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 20:34:06 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 20:34:06 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 20:35:26 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 20:35:26 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 20:35:26 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 20:35:26 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 20:44:04 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 20:44:05 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 20:44:05 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 20:44:05 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 22:48:19 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 22:48:19 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 22:48:19 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 22:48:19 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 22:49:32 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 22:49:32 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 22:49:32 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 22:49:33 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 22:50:34 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 22:50:34 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 22:50:34 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 22:50:34 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 22:53:07 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 22:53:07 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 22:53:08 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 22:53:08 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 22:53:31 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 22:53:31 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 22:53:31 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 22:53:31 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 22:57:19 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 22:57:19 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 22:57:19 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 22:57:19 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 22:59:23 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 22:59:23 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 22:59:23 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 22:59:23 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 23:10:12 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 23:10:12 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 23:10:12 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 23:10:12 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 23:10:39 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 23:10:39 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 23:10:39 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 23:10:39 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 23:16:07 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 23:16:07 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 23:16:07 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 23:16:07 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 23:16:10 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 23:16:10 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 23:16:10 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 23:16:10 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-10 23:57:37 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-10 23:57:37 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-10 23:57:37 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-10 23:57:37 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-11 00:00:21 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-11 00:00:21 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-11 00:00:21 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-11 00:00:21 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-11 00:00:45 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-11 00:00:45 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-11 00:00:46 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-11 00:00:46 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+
+2021-03-11 00:02:00 | 124 samples examined | Samples examined from 2017/10/1 to 2019/10/18 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -0.36 
+
+2021-03-11 00:02:00 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: -0.00 * (x) + 0.00 | R2 score -Infinity 
+
+2021-03-11 00:02:00 | 10 samples examined | Samples examined from 2020/12/14 to 2020/12/23 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -Infinity 
+
+2021-03-11 00:02:00 | 9 samples examined | Samples examined from 2020/12/14 to 2020/12/22 | Forecasts made: 10  | Vars: COUNTER,Day of the Year,UNITS,FltMet1| Eq:  Linear Regression: 0.00 * (x) + -0.00 | R2 score -4679.71 
+

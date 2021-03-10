@@ -1,0 +1,4 @@
+NSE/AB => 0
+NSX/D => 1
+NSE/Q => 2
+NSE/A => 3
