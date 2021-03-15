@@ -19,7 +19,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "nodemon CATLinear2"
+    "start": "nodemon CATLinear"
   },
   "keywords": [],
   "author": "",

@@ -6,7 +6,8 @@ const {
   getQuarter,
   isNumeric,
   isObject,
-  dayOfTheWeek
+  dayOfTheWeek,
+  getJulainDay,
 } = require("./subutils");
 let variableMappingLookup = require("../variableMappingLookup");
 
@@ -230,7 +231,7 @@ let getRateOfGrowth = (arr) => {
   let results = [];
   for (let i = 0; i < arr.length - 1; i++) {
     results.push({
-      diff: Math.abs(arr[i] - arr[i + 1]),
+      diff: Math.abs((arr[i] - arr[i + 1]) / arr[i]),
       op: arr[i] - arr[i + 1] > 0 ? "sub" : "add",
     });
   }
@@ -242,6 +243,7 @@ let getRateOfGrowth = (arr) => {
   }
   let avg =
     results.map((e) => e.diff).reduce((acc, val) => acc + val) / results.length;
+  avg = parseFloat(avg.toFixed(2));
   let oparray = results.map((e) => e.op);
   return [results, avg, oparray];
 };
@@ -306,13 +308,13 @@ let integrateXY = (
     These would be utilized later
   */
 
-  let [
-    XSystem,
-    ySystem,
-    forecastFeaturesSystem,
-    forecastData,
-    datesSystem,
-  ] = [[], [], [], [], []];
+  let [XSystem, ySystem, forecastFeaturesSystem, forecastData, datesSystem] = [
+    [],
+    [],
+    [],
+    [],
+    [],
+  ];
   let columns;
   for (let f = 0; f < data.length; f++) {
     /*
@@ -344,7 +346,7 @@ let integrateXY = (
     forecastData.push({
       UNITT: [data[f][data[f].length - 1]["UNITT"]],
       UNITS: [data[f][data[f].length - 1]["UNITS"]],
-      COUNTER:[data[f][data[f].length - 1]["COUNTER"]]
+      COUNTER: [data[f][data[f].length - 1]["COUNTER"]],
     });
     let temparr;
     for (let i = 0; i < keys.length; i++) {
@@ -357,31 +359,92 @@ let integrateXY = (
         */
       forecastData[f].TimeSlot = datesToForecast.map(
         (date) =>
-          `${date.getFullYear()}${dateSeperator}${
-            date.getMonth() + 1
-          }${dateSeperator}${date.getDate()} 00:00:00`
+          `${date.getFullYear()}${dateSeperator}${(date.getMonth() + 1)
+            .toString()
+            .padStart(
+              2,
+              "0"
+            )}${dateSeperator}${date
+            .getDate()
+            .toString()
+            .padStart(2, "0")} 00:00:00`
+      );
+      forecastData[f].TTime = datesToForecast.map(
+        (date) =>
+          `${date.getFullYear()}${dateSeperator}${(date.getMonth() + 1)
+            .toString()
+            .padStart(
+              2,
+              "0"
+            )}${dateSeperator}${date
+            .getDate()
+            .toString()
+            .padStart(2, "0")}T00:00:00`
+      );
+      forecastData[f].UnixTS = datesToForecast.map((date) =>
+        Math.round(date.getTime() / 1000)
+      );
+      forecastData[f].TIMESTAMP_TimeStamp = datesToForecast.map((date) =>
+        getJulainDay(date.getFullYear(), date.getMonth() + 1, date.getDate())
       );
       if (keys[i] == "Day of the Month") {
         temparr = datesToForecast.map((date) => date.getDate());
         temparr = reshape(temparr, temparr.length, 1);
-      }
-      else if(keys[i]=="Day of the Year"){
+      } else if (keys[i] == "Day of the Year") {
         temparr = datesToForecast.map((date) => dayOfYear(date));
         temparr = reshape(temparr, temparr.length, 1);
-      } 
-      else if(keys[i]=='Day of the Week'){
+      } else if (keys[i] == "Day of the Week") {
         temparr = datesToForecast.map((date) => dayOfTheWeek(date.getDay()));
         temparr = reshape(temparr, temparr.length, 1);
-      }
-      else if(keys[i]=='COUNTER'){
-        let lastCounterVal = X[X.length-1][keys[i]]
-        temparr = [lastCounterVal]
-        for(let k=0;k<numDaysToForecast;k++){
-          temparr.push(temparr[temparr.length-1]+rateOfGrowth)
+      } else if (keys[i] == "Year(4 digit)") {
+        temparr = datesToForecast.map((date) => date.getFullYear());
+        temparr = reshape(temparr, temparr.length, 1);
+      } else if (keys[i] == "Month") {
+        temparr = datesToForecast.map((date) => date.getMonth());
+        temparr = reshape(temparr, temparr.length, 1);
+      } else if (keys[i] == "UNITS" || keys[i] == "UNITT") {
+        let lastUNITVal = data[f][data[f].length - 1][keys[i]];
+        temparr = [];
+        for (let h = 0; h < numDaysToForecast; h++) {
+          temparr.push(lastUNITVal);
         }
         temparr = reshape(temparr, temparr.length, 1);
-      }
-      else {
+      } else if (keys[i] == "COUNTER") {
+        let lastCounterVal = X[X.length - 1]["COUNTER"];
+        let Counter = X.map((x) => x.COUNTER);
+        let [_, rateOfGrowthCalculated, __] = getRateOfGrowth(Counter);
+        console.log(
+          `Calculated Rate of Growth of COUNTER for system ${systems[f]} => ${rateOfGrowthCalculated}`
+        );
+        temparr = [lastCounterVal];
+        for (let k = 0; k < numDaysToForecast; k++) {
+          temparr.push(
+            parseInt(
+              temparr[temparr.length - 1] +
+                temparr[temparr.length - 1] * rateOfGrowthCalculated
+            )
+          );
+        }
+        temparr = reshape(temparr, temparr.length, 1);
+        /*
+          The COUNTER feature will be bumped by the bumping parameter <bumpParameter>
+          starting from the <bumpStart> parameter which are both passed from the 
+          command line
+        */
+        let idx = 0;
+        temparr = temparr.map((count) => {
+          idx += 1;
+          return idx >= bumpStart
+            ? [count[0] + count[0] * (bumpParameter / 100)]
+            : count;
+        });
+        let [___, rateOfGrowthAfterBump, ____] = getRateOfGrowth(
+          [].concat.apply([], temparr)
+        );
+        console.log(
+          `Calculated Rate of Growth of COUNTER for system ${systems[f]} after bump => ${rateOfGrowthAfterBump}`
+        );
+      } else {
         temparr = X.map((x) => x[keys[i]]);
         temparr = reshape(temparr, temparr.length, 1);
         /*
@@ -389,22 +452,8 @@ let integrateXY = (
           More details can be found in function definition
         */
         temparr = forecastFeature(temparr, numDaysToForecast);
-        /*
-          The COUNTER feature will be bumped by the bumping parameter <bumpParameter>
-          starting from the <bumpStart> parameter which are both passed from the 
-          command line
-        */
-        let idx = 0;
-        if (keys[i] == "COUNTER") {
-          idx += 1;
-          temparr = temparr.map((count) => {
-            return idx >= bumpStart
-              ? [count[0] * (1 + bumpParameter * 100)]
-              : count;
-          });
-        }
       }
-      forecastData[f][keys[i]] = [].concat.apply([], temparr)
+      forecastData[f][keys[i]] = [].concat.apply([], temparr);
       for (let j = 0; j < numDaysToForecast; j++) {
         forecastFeatures[j].push(temparr[j][0]);
       }
@@ -415,7 +464,6 @@ let integrateXY = (
     ySystem.push(y);
     forecastFeaturesSystem.push(forecastFeatures);
   }
-  // console.log(forecastData)
   return [
     data,
     XSystem,
@@ -424,7 +472,7 @@ let integrateXY = (
     datesSystem,
     systems,
     columns,
-    forecastData
+    forecastData,
   ];
 };
 
@@ -445,14 +493,6 @@ function r2_score(y, y_hat) {
     regressionSquaredError += Math.pow(y[i] - y_hat[i], 2);
     totalSquaredError += Math.pow(y[i] - yMean, 2);
   }
-  // console.log(
-  //   "r2stuff",
-  //   regressionSquaredError,
-  //   totalSquaredError,
-  //   yMean,
-  //   y,
-  //   y_hat
-  // );
   return (1 - regressionSquaredError / totalSquaredError).toFixed(2);
 }
 

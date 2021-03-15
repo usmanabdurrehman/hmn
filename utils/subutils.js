@@ -116,11 +116,40 @@ let getQuarter = (m) => {
 
 let calculateRatio = (COUNTER, UNITS, Period, FltMet) => {
   let ratio =
-    ((parseFloat(COUNTER) / parseFloat(UNITS)) / parseFloat(Period))/ (parseFloat(FltMet)/100);
+    parseFloat(COUNTER) /
+    parseFloat(UNITS) /
+    parseFloat(Period) /
+    (parseFloat(FltMet) / 100);
   return isFinite(ratio) ? ratio.toFixed(2) : 0;
 };
 
 let dayOfTheWeek = [7, 1, 2, 3, 4, 5, 6];
+
+let makeDateString = (dateArr, dateSeperator, TTime = false) => {
+  let [year, month, day, hour, min, sec] = dateArr;
+  return `${year}${dateSeperator}${month
+    .toString()
+    .padStart(2, "0")}${dateSeperator}${day.toString().padStart(2, "0")}${
+    TTime ? "T" : " "
+  }${hour.toString().padStart(2, "0")}:${min
+    .toString()
+    .padStart(2, "0")}:${sec.toString().padStart(2, "0")}`;
+};
+
+let getJulainDay = (Year,Month,Day) => {
+  a = parseInt((14 - Month) / 12);
+  y = Year + 4800 - a;
+  m = Month + 12 * a - 3;
+  JDN =
+    Day +
+    parseInt((153 * m + 2) / 5) +
+    365 * y +
+    parseInt(y / 4) -
+    parseInt(y / 100) +
+    parseInt(y / 400) -
+    32045; 
+  return JDN;
+};
 
 module.exports = {
   reshape,
@@ -129,5 +158,7 @@ module.exports = {
   getQuarter,
   isNumeric,
   calculateRatio,
-  dayOfTheWeek
+  dayOfTheWeek,
+  makeDateString,
+  getJulainDay
 };
