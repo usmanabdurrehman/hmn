@@ -40,7 +40,7 @@ let forecastData = async () => {
 		numDaysToForecast = 730,
 		bumpParameter = 0,
 		bumpStart = 0,
-		rateOfGrowth = 0.05,
+		rateOfGrowth = 0,
 		variableMapping = "MV_CNT1",
 		PeriodKey = "Day",
 		datasource = "csv",

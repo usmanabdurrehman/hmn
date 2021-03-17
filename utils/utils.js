@@ -243,7 +243,7 @@ let getRateOfGrowth = (arr) => {
   }
   let avg =
     results.map((e) => e.diff).reduce((acc, val) => acc + val) / results.length;
-  avg = parseFloat(avg.toFixed(2));
+  avg = avg;
   let oparray = results.map((e) => e.op);
   return [results, avg, oparray];
 };
@@ -283,7 +283,7 @@ let integrateXY = (
   numDaysToLookBack,
   bumpStart,
   bumpParameter,
-  rateOfGrowth
+  defaultRateOfGrowth
 ) => {
   /*
     Gets data according to what the numDaysToLookback parameter is passed from the command line
@@ -316,6 +316,7 @@ let integrateXY = (
     [],
   ];
   let columns;
+  console.log(defaultRateOfGrowth==0 ? "Calculated Rate of growth will be used" : "Rate of growth from the command line will be used")
   for (let f = 0; f < data.length; f++) {
     /*
       Taking out the first and last date from the data which will be used in the log
@@ -421,7 +422,7 @@ let integrateXY = (
           temparr.push(
             parseInt(
               temparr[temparr.length - 1] +
-                temparr[temparr.length - 1] * rateOfGrowthCalculated
+                temparr[temparr.length - 1] * (defaultRateOfGrowth==0 ? (rateOfGrowthCalculated/365) : (defaultRateOfGrowth/365))
             )
           );
         }
